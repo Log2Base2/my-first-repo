@@ -2,3 +2,5 @@ This line is added to the file during branch-2
 
 This is first sample file
 Please add this line to file 1
+
+This line is added to the file during branch-1
